@@ -6,7 +6,7 @@ program that reads a docx file and produces js Dom output.
 
 added a list but limited ordinal numbers
 
-#docx2jsV3
+# docx2jsV3
 
  - added list styles for ordered and unordered lists  
  - added unordered lists  
